@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fiodar</h1>
 <h3 align="center">A software engineering student @42, interested in web applications</h3>
 
-- 🔭 I’m currently working on the ** 42 Heilbronn Core Curriculum**
+- 🔭 I’m currently working on the **42 Heilbronn Core Curriculum**
 
 - 📫 How to reach me **fiodar.yuzhyk@gmail.com**
 
