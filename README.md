@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fiodar</h1>
+<h1 align="center">Hi 🚀, I'm Fiodar</h1>
 <h3 align="center">A Software Engineering Student @42, interested in Web Applications</h3>
 
 - 🔭 I’m currently working on the **42 Heilbronn Core Curriculum**, as well as other side-projects, in order
