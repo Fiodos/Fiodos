@@ -6,7 +6,6 @@ to get a sense for all the opportunities in Software Engineering
 
 - 📫 How to reach me **fiodar.yuzhyk@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
